@@ -1,4 +1,4 @@
-### 🌍 **Intro to Python - Planetary Weight Calculator** 🚀  
+# 🌍 **Intro to Python - Planetary Weight Calculator** 🚀  
 
 This Python script helps users calculate their **weight on different planets** based on Earth's gravity. It introduces **dictionaries, functions, conditionals, and user input handling** in Python.  
 
