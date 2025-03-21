@@ -1,4 +1,4 @@
-# **Guess My Number - Game Description 🎯**  
+# *Guess My Number - Game Description 🎯* 
 
 **Overview:**  
 "Guess My Number" is an interactive Python game where the player tries to guess a randomly generated number between **1 and 99**. The game provides hints after each guess, helping the player get closer to the correct answer.
