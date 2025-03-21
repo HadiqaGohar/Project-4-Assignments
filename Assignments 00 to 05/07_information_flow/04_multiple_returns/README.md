@@ -11,6 +11,6 @@
 ```
 What is your first name?: Hadiqa  
 What is your last name?: Gohar  
-What is your email address?: hadiqa@example.com  
-Received the following user data: ('Hadiqa', 'Gohar', 'hadiqa@example.com')
+What is your email address?: hg@example.com  
+Received the following user data: ('Hadiqa', 'Gohar', 'hg@example.com')
 ```
