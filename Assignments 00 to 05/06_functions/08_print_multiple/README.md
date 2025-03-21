@@ -1,4 +1,4 @@
-### **🔁 Print Multiple Messages 📢**
+# **🔁 Print Multiple Messages 📢**
 
 #### **📌 Overview**  
 This program takes a **message** from the user and repeats it a specified number of times.
