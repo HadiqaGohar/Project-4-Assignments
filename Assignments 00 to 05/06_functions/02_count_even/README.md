@@ -1,4 +1,4 @@
-# **🔢 COUNT EVEN NUMBERS - FUNCTION **  
+# **🔢 COUNT EVEN NUMBERS - FUNCTION**  
 
 ### **📌 Functionality**  
 This program counts and prints the number of **even numbers** in a list entered by the user.  
