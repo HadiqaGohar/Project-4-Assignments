@@ -41,9 +41,3 @@ def sum():
 
 if __name__ == '__main__':
   sum()
-
-   #  Why didn’t I use (if __name__ == '__sum__':) here ? 🤔  
-   #  I avoided using __sum__ because it is not a built-in variable in Python. Instead, Python uses __name__ == '__main__' to determine whether a script is being run directly or imported as a module.
-
-   #  What is the use of __name__ == '__main__' in Python? 🤔
-   #  The __name__ == '__main__' is used to execute some code only if the file was run directly, and not imported. This is useful when you want to run some code only if the file was run directly, and not imported.
