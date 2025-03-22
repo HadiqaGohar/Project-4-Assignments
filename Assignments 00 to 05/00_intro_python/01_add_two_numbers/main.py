@@ -40,4 +40,5 @@ def sum():
     print(colored("\n\t\t\t +-+-+ End of the program +-+-+ \n", "light_magenta"))
 
 if __name__ == '__main__':
+    # why i did not use here __sum__ ?? because its not a built in variable
     sum()
