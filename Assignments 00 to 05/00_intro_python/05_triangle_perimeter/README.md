@@ -1,23 +1,37 @@
 # **🔺 05_triangle_perimeter – Calculate Triangle Perimeter 📏**  
 
-## **📌 Overview**  
-This Python script calculates the **perimeter of a triangle** based on user-inputted side lengths. 📐✨  
+A simple **Python script** to calculate the perimeter of a triangle based on user input, with **error handling** and **colored output** for better readability.  
 
-## **🖥️ Code Explanation**  
-- **📥 Takes input** from the user for the three sides of a triangle.  
-- **➕ Computes the perimeter** by adding all three sides.  
-- **🖨️ Displays the result** using an f-string for better readability.  
+## 🚀 Features  
+✔ **User Input Validation** – Ensures only valid numeric values are accepted.  
+✔ **Error Handling** – Prevents crashes from invalid inputs using `try-except`.  
+✔ **Formatted Output** – Uses `f-strings` and `termcolor` for improved terminal display.  
 
-## **🚀 How to Run**  
-1. Open a terminal or command prompt.  
-2. Navigate to the script directory:  
-   ```bash
-   cd Project-4-Assignments/Assignments 00 to 05/00_intro_python/05_triangle_perimeter/
+## 🛠️ Tech Stack  
+- **Python 3+** 🐍  
+- **termcolor** (for colored console output) 🎨  
+
+## 📌 How to Run  
+1. Clone the repository:  
+   ```sh
+   git clone https://github.com/yourusername/Triangle-Perimeter-Calculator.git  
+   cd Triangle-Perimeter-Calculator  
+   ```  
+2. Install dependencies:  
+   ```sh
+   pip install termcolor  
    ```  
 3. Run the script:  
-   ```bash
-   python main.py
+   ```sh
+   python main.py  
    ```  
-4. Enter the three side lengths when prompted. The script will then **calculate and display the triangle's perimeter.** ✅🎉  
+4. Enter the three side lengths when prompted, and get the perimeter instantly! 🎉  
 
-This exercise reinforces **basic arithmetic, user input handling, and formatted output** in Python! 🚀📊
+## 💡 Learning Outcomes  
+- Working with **user input** and **data validation**  
+- Implementing **error handling** in Python  
+- Enhancing CLI applications with **colored output**  
+
+---
+
+🔗 **Feel free to fork, contribute, or suggest improvements!** 💡  
